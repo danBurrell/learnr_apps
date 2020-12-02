@@ -1,0 +1,31 @@
+---
+output: 
+  html_document:
+    includes:
+    in_header: test1.html
+runtime: shiny_prerendered
+---
+
+```{r setup, include=FALSE}
+library(learnr)
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+
+
+```{r exercise1_question, exercise=TRUE}
+# The following code shows the addition of 1 and 1.
+1 + 1
+# change it to make it sum 2 and 2
+```
+
+```{r exercise1-hint}
+# Here is a hint:
+```
+
+```{r exercise1-solution}
+2 + 2
+```
+
+<div data-iframe-height></div>

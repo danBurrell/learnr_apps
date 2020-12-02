@@ -1,0 +1,13 @@
+name: learnr_app1
+title: learnr_app1
+username:
+account: danburrell
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3336100
+bundleId: 3931056
+url: https://danburrell.shinyapps.io/learnr_app1/
+when: 1606882793.24441
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: learnr_app1.html|LICENSE|README.md|test1.html
